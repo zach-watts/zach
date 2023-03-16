@@ -5,5 +5,10 @@ const button = document.querySelector('.btn4')
 const button = document.querySelector('.btn5')
 
 button.addEventListener('click', () => {
-    
+    if (.btn1){
+
+    }
+    if else (.btn2){
+        
+    }
 })
