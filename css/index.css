@@ -9,37 +9,9 @@ body {
     background-color: #62c489;
 }
 
-.btn1 {
+.btn {
     height: 30px;
-    margin: 55px;
-    border-radius: 10px;
-    background-color: #6bd5f2;
-}
-
-.btn2 {
-    height: 30px;
-    margin: 55px;
-    border-radius: 10px;
-    background-color: #6bd5f2;
-}
-
-.btn3 {
-    height: 30px;
-    margin: 55px;
-    border-radius: 10px;
-    background-color: #6bd5f2;
-}
-
-.btn4 {
-    height: 30px;
-    margin: 55px;
-    border-radius: 10px;
-    background-color: #6bd5f2;
-}
-
-.btn5 {
-    height: 30px;
-    margin: 55px;
+    margin: 22px;
     border-radius: 10px;
     background-color: #6bd5f2;
 }
